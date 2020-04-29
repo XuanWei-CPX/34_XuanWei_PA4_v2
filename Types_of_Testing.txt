@@ -1,0 +1,45 @@
+Unit Testing
+
+- What is Unit Testing?
+Unit testing (or component testing) is to test the smallest units or software components in a program
+
+- Unit Testing is Conducted By _
+single programmer or team of programmers
+
+-It is a type of blackbox/whitebox testing
+Unit Testing is a type of whitebox testing
+
+Integration Testing
+
+-What is Integration Testing?
+The objective of integration testing is to reveal interface problems as well as conflicts between integrated parts.
+-
+-Integration Testing is Conducted By 
+multiple programmers or programming teams
+
+-It is a type of blackbox/whitebox testing
+Integration Testing is a type of blackbox testing
+
+
+System testing 
+
+- What is system Testing?
+System testing checks if the integrated product meets the specified requirements. 
+
+- System Testing is conducted by ______________
+Developers
+
+- It is type of (blackbox/whitebox testing)
+blackbox testing
+
+
+Acceptance testing
+
+- What is acceptance Testing?
+User Acceptance Testing is the final test before the customer signs-off and accepts it. It is needed to ensure that the software meets the requirements as specified usually so that the developer can get final payment for development. 
+
+- Acceptance Testing is conducted by ______________
+Customers and end-users
+
+- It is type of (blackbox/whitebox testing)
+Whitebox Testing
